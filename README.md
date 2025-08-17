@@ -65,6 +65,7 @@ I am currently using the below hardware to run the [Proxmox](https://www.proxmox
 + [Understanding Wazuh – OSINTph](https://osintph.medium.com/understanding-wazuh-the-free-open-source-security-platform-for-xdr-siem-48b3c3dfba9d)
 + [Homelab Hardware & Topology Overview – emhedge.medium](https://medium.com/@emhedge/homelab-learning-a-general-overview-of-my-homelab-hardware-and-topology-d4ef3a7336b1)
 + [Installing pfSense on Proxmox – ZenArmor Docs](https://www.zenarmor.com/docs/network-security-tutorials/how-to-install-pfsense-software-on-proxmox)
++ [David Varghese - Building a Virtual Security Home Lab](https://blog.davidvarghese.net/posts/building-home-lab-part-1/)
 
 🌐 Networking Resources
 
