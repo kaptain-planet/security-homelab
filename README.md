@@ -4,7 +4,7 @@ Documenting the process for setting up a home lab for security training for myse
 ## Overview 
 This project will mainly provide resources I used during my initial setup to create a virtualized segmented environment within my home network. Virtualization will be a big part of this lab but it will be locally hosted. 
 
-## Network Diagram (Mine)
+## Network Diagram (Mine) created via [draw.io](https://github.com/jgraph/drawio-desktop)
 This is the visual representation of my security lab environment. It is not completely finished so I will continue to make updates to this image and the documentation.
 
 ![security lab diagram](https://github.com/kaptain-planet/security-homelab/blob/27631ed60d00d1ed8ae13edb5f432a609366c8e2/HomeLab_2025.png)
@@ -74,6 +74,8 @@ I am currently using the below hardware to run the [Proxmox](https://www.proxmox
 + [Kali Purple Documentation – GitLab](https://gitlab.com/kalilinux/kali-purple/documentation/-/wikis/home)
 + [Proxmox Beginner Tutorial – Proxmox Forum](https://forum.proxmox.com/threads/proxmox-beginner-tutorial-how-to-set-up-your-first-virtual-machine-on-a-secondary-hard-disk.59559/)
 
+## About Me 
+LinkedIN: 
 
 
 
