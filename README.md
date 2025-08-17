@@ -75,7 +75,7 @@ I am currently using the below hardware to run the [Proxmox](https://www.proxmox
 + [Proxmox Beginner Tutorial – Proxmox Forum](https://forum.proxmox.com/threads/proxmox-beginner-tutorial-how-to-set-up-your-first-virtual-machine-on-a-secondary-hard-disk.59559/)
 
 ## About Me 
-LinkedIN: 
+LinkedIn: [Christopher Armon](https://www.linkedin.com/in/chrisarmon) 
 
 
 
